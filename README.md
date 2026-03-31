@@ -1,5 +1,6 @@
-Retail Store PostgreSQL Project\n
-/* References 
+Retail Store PostgreSQL Project
+
+References 
 
 Drkusic, E. (2020). Learn SQL: User-Defined Functions. 
 [online] SQL Shack - articles about database auditing, server performance, data recovery, and more. 
@@ -68,4 +69,4 @@ Available at: https://www.tutorialspoint.com/sql/sql-drop-table.htm
 TutorialsPoint (2025b). SQL - Primary Key - Tutorialspoint. [online] 
 Tutorialspoint.com. 
 Available at: https://www.tutorialspoint.com/sql/sql-primary-key.htm [Accessed 4 Jan. 2025].
-*/
+
